@@ -1,0 +1,1 @@
+G:\C#\MauiApp4\MauiApp4\MauiApp4.csproj;x64

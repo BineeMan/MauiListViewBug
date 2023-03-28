@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiApp4</name>
+    </assembly>
+    <members>
+        <member name="P:MauiApp4.Model.MainPageViewModel.Monkeys">
+            <inheritdoc cref="F:MauiApp4.Model.MainPageViewModel.monkeys"/>
+        </member>
+        <member name="F:MauiApp4.Model.MainPageViewModel.removeCommand">
+            <summary>The backing field for <see cref="P:MauiApp4.Model.MainPageViewModel.RemoveCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp4.Model.MainPageViewModel.RemoveCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:MauiApp4.Model.MainPageViewModel.Remove(System.String)"/>.</summary>
+        </member>
+    </members>
+</doc>
